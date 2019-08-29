@@ -126,6 +126,7 @@ nav ul li {
 
 #about ul {
   list-style-type: none;
+  padding: 0;
 }
 
 #about li {
